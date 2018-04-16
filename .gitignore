@@ -1,0 +1,8 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Access files
+*.mdb
+*.ldb
